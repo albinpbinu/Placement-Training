@@ -1,0 +1,6 @@
+PI=3.1416
+r=float(input())
+a=2*PI*r
+b=PI*r*r
+print("The circumference of the circle is: {:.2f}".format(a))
+print("The area of the circle is: {:.2f}".format(b))
