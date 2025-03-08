@@ -1,6 +1,3 @@
-#Buy and sell stock.
-#Given a list of ending bell stock prices for n days, compute the maximum profit from buying on a day and selling on any day after the buy operation.
-
 prices=[]
 n=int(input("Enter the number of days: "))
 for i in range(n):
